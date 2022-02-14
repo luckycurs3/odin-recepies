@@ -1,1 +1,1 @@
-# odin-recepies
+A brief website where i'll demonstrate my HTML knowledge by formating a page describing a recepie for a meal.
