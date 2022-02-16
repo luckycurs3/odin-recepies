@@ -1,0 +1,41 @@
+/* stylesheet for recepies index */
+.title,
+.list {
+    font-family: Brush Script MT, Garamond, Georgia, 'Times New Roman';
+}
+
+.title,
+.list,
+.pizza {
+    text-align: center;
+}
+
+p,
+ul,
+ol {
+    background-color: rgb(241, 203, 154);
+    color: rgb(29, 12, 0);
+}
+
+.title {
+    color: rgb(131, 26, 26);
+    background-color: burlywood;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.list {
+    color: burlywood;
+    background-color: burlywood;
+    font-weight: 700;
+    font-size: large;
+}
+
+.pizza {
+    background-color: burlywood;
+    color: rgb(131, 26, 26);
+}
+
+p {
+    text-align: center;
+}
